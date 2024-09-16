@@ -2,7 +2,7 @@ Input type for AutoForm for Tempus Dominus datetime picker
 [https://github.com/Eonasdan/tempus-dominus]
 
 Example usage in Schema declaration :
-<code>
+```
   birthday: {
     type: Date,
     optional: true,
@@ -30,5 +30,4 @@ Example usage in Schema declaration :
       },
     }
   }
-</code>
-
+```
