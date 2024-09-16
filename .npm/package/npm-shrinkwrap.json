@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 4,
+  "dependencies": {
+    "@eonasdan/tempus-dominus": {
+      "version": "6.9.4",
+      "resolved": "https://registry.npmjs.org/@eonasdan/tempus-dominus/-/tempus-dominus-6.9.4.tgz",
+      "integrity": "sha512-zbGHdHCxjIuUN+31iTbsHhmrZuAalCdmuN3yf56P764Ko/tpOdWJUxr5yiBD5mvXoVcBxkGBtKCyDPL+bROABg=="
+    },
+    "@popperjs/core": {
+      "version": "2.11.8",
+      "resolved": "https://registry.npmjs.org/@popperjs/core/-/core-2.11.8.tgz",
+      "integrity": "sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A=="
+    },
+    "luxon": {
+      "version": "2.3.2",
+      "resolved": "https://registry.npmjs.org/luxon/-/luxon-2.3.2.tgz",
+      "integrity": "sha512-MlAQQVMFhGk4WUA6gpfsy0QycnKP0+NlCBJRVRNPxxSIbjrCbQ65nrpJD3FVyJNZLuJ0uoqL57ye6BmDYgHaSw=="
+    }
+  }
+}

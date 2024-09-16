@@ -1,0 +1,12 @@
+<template name="afTempusDominusDateTimePicker">
+    <div class='input-group date' id="{{pickerId}}" data-td-target-input="nearest" data-td-target-toggle='nearest'>
+        <div class="input-group-prepend" data-td-target='#{{pickerId}}' data-td-toggle='datetimepicker'>
+            <span class="input-group-text py-0 border-0 px-1">
+                <i class="fa-solid fa-calendar-day"></i>
+                <input type="text" value="" {{atts}} readonly data-td-target='#{{pickerId}}'/>
+            </span>
+        </div>
+        <span class="help-block">{{afFieldMessage name='date'}}</span>
+    </div>
+    <!-- <input type="text" value="" readonly /> -->
+</template>
