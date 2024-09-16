@@ -31,3 +31,4 @@ Example usage in Schema declaration :
     }
   }
 ```
+The package uses a global.pickers variable to keep track of active DateTime picker instances to retrieve value in valueOut function.
