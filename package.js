@@ -14,7 +14,7 @@ Package.describe({
       'ecmascript',
       'reactive-var',
       'templating',
-      'aldeed:autoform@8.0.0-rc.4',
+      'aldeed:autoform@8.0.0-rc.5',
     ], 'client');
   
     api.addFiles([
